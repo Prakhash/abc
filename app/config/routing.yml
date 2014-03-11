@@ -1,0 +1,4 @@
+abc_resource_person:
+    resource: "@ABCResourcePersonBundle/Resources/config/routing.yml"
+    prefix:   /
+
